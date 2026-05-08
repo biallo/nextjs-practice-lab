@@ -3,8 +3,8 @@
   align-items: flex-start;
   justify-content: space-between;
   gap: 24px;
-  max-width: 1120px;
-  margin: 0 auto 20px;
+  width: 100%;
+  margin: 0 0 20px;
   padding: 30px;
   background: var(--surface);
   border: 1px solid var(--line);
@@ -52,9 +52,7 @@
 
 .tabs,
 .panel {
-  max-width: 1120px;
-  margin-right: auto;
-  margin-left: auto;
+  width: 100%;
 }
 
 .tabs {
