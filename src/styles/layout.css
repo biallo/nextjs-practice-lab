@@ -173,6 +173,9 @@
   overflow-wrap: anywhere;
   line-height: 1.35;
   font-size: 14px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .course-title + span {
