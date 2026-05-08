@@ -12,6 +12,16 @@ import { imagesFontsAssetsLesson } from './11-images-fonts-assets.js';
 import { authProtectedRoutesLesson } from './12-auth-protected-routes.js';
 import { parallelInterceptingRoutesLesson } from './13-parallel-intercepting-routes.js';
 import { productionQualityLesson } from './14-production-quality.js';
+import { cacheComponentsLesson } from './15-cache-components.js';
+import { cachingModelLesson } from './16-caching-model.js';
+import { formUxLesson } from './17-form-ux.js';
+import { instrumentationObservabilityLesson } from './18-instrumentation-observability.js';
+import { internationalizationLesson } from './19-internationalization.js';
+import { typescriptRoutesLesson } from './20-typescript-routes.js';
+import { testingStrategyLesson } from './21-testing-strategy.js';
+import { mdxContentLesson } from './22-mdx-content.js';
+import { bundlePerformanceLesson } from './23-bundle-performance.js';
+import { runtimeDeploymentLesson } from './24-runtime-deployment.js';
 
 export const lessons = [
   appRouterLesson,
@@ -28,4 +38,14 @@ export const lessons = [
   authProtectedRoutesLesson,
   parallelInterceptingRoutesLesson,
   productionQualityLesson,
+  cacheComponentsLesson,
+  cachingModelLesson,
+  formUxLesson,
+  instrumentationObservabilityLesson,
+  internationalizationLesson,
+  typescriptRoutesLesson,
+  testingStrategyLesson,
+  mdxContentLesson,
+  bundlePerformanceLesson,
+  runtimeDeploymentLesson,
 ];

@@ -1,5 +1,6 @@
 export const deploymentLesson = {
     id: 'deployment',
+    number: '06',
     title: '静态导出与部署',
     level: '实践',
     summary: '理解静态站点、动态能力限制和 Pages 部署路径。',

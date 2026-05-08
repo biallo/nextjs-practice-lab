@@ -1,5 +1,6 @@
 export const appRouterLesson = {
     id: 'app-router',
+    number: '01',
     title: 'App Router 与项目结构',
     level: '基础',
     summary: '理解 app 目录、layout、page、嵌套路由和路由组的协作方式。',

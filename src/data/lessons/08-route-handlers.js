@@ -1,5 +1,6 @@
 export const routeHandlersLesson = {
   id: 'route-handlers',
+  number: '08',
   title: 'Route Handlers 与 API 设计',
   level: '核心',
   summary: '使用 app 目录下的 route.ts 处理 HTTP 请求、Webhook、非 UI 响应和轻量 API。',

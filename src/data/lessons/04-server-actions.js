@@ -1,5 +1,6 @@
 export const serverActionsLesson = {
     id: 'server-actions',
+    number: '04',
     title: 'Server Actions 与表单提交',
     level: '进阶',
     summary: '用服务端函数处理变更、校验输入并刷新缓存。',

@@ -91,6 +91,7 @@ function CourseButton({ lesson, selected, completed, onClick, buttonRef }) {
       className={`course-item ${selected ? 'selected' : ''} ${completed ? 'completed' : ''}`}
       onClick={onClick}
     >
+      <span className="course-number">{lesson.number}</span>
       <span className="course-meta">
         <span className="course-title">{lesson.title}</span>
         <span>{lesson.level}</span>

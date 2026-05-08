@@ -1,5 +1,6 @@
 export const renderingStreamingLesson = {
   id: 'rendering-streaming',
+  number: '09',
   title: '渲染策略、Streaming 与 Suspense',
   level: '进阶',
   summary: '理解静态渲染、动态渲染、Streaming、Suspense，以及实验性的 Partial Prerendering。',

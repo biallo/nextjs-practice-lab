@@ -1,5 +1,6 @@
 export const authProtectedRoutesLesson = {
   id: 'auth-protected-routes',
+  number: '12',
   title: '认证、会话与受保护路由',
   level: '实践',
   summary: '理解登录态读取、服务端保护、客户端显示状态和安全边界的分工。',

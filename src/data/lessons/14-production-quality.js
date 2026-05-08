@@ -1,5 +1,6 @@
 export const productionQualityLesson = {
   id: 'production-quality',
+  number: '14',
   title: '生产质量、可观测性与维护',
   level: '实践',
   summary: '建立上线前检查、错误边界、性能指标、环境配置和测试策略，避免只会写 demo。',

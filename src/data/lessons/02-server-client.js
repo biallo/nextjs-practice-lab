@@ -1,5 +1,6 @@
 export const serverClientLesson = {
     id: 'server-client',
+    number: '02',
     title: 'Server Components 与 Client Components',
     level: '核心',
     summary: '掌握默认服务端渲染、客户端边界和数据传递约束。',
