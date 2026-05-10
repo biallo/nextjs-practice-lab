@@ -1,6 +1,6 @@
 export const proxyRedirectsLesson = {
   id: 'proxy-redirects',
-  number: '10',
+  number: '11',
   title: 'Proxy、重写与重定向',
   level: '进阶',
   summary: '理解 Next.js 16 中 Proxy 的定位，以及何时使用 redirects、rewrites 和请求前逻辑。',

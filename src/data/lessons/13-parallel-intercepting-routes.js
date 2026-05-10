@@ -1,6 +1,6 @@
 export const parallelInterceptingRoutesLesson = {
   id: 'parallel-intercepting-routes',
-  number: '13',
+  number: '14',
   title: '并行路由与拦截路由',
   level: '进阶',
   summary: '使用 slots、modal 路由和拦截路由组织复杂界面，避免把所有状态塞进单个页面组件。',

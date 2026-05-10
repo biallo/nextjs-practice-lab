@@ -1,6 +1,6 @@
 export const formUxLesson = {
   id: 'form-ux',
-  number: '17',
+  number: '18',
   title: '表单体验进阶',
   level: '实践',
   summary: '用 Server Actions、useActionState、useFormStatus 和乐观 UI 处理真实表单体验。',

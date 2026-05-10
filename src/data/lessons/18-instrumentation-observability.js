@@ -1,6 +1,6 @@
 export const instrumentationObservabilityLesson = {
   id: 'instrumentation-observability',
-  number: '18',
+  number: '19',
   title: 'Instrumentation 与生产监控',
   level: '实践',
   summary: '使用 instrumentation.ts 接入监控、日志、追踪和运行时初始化逻辑。',

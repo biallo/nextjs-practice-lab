@@ -1,6 +1,6 @@
 export const testingStrategyLesson = {
   id: 'testing-strategy',
-  number: '21',
+  number: '22',
   title: '测试策略',
   level: '工程',
   summary: '为 Next.js 项目设计单元测试、组件测试、E2E 测试和服务端入口测试。',

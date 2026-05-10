@@ -1,6 +1,6 @@
 export const metadataSeoLesson = {
     id: 'metadata-seo',
-    number: '05',
+    number: '06',
     title: 'Metadata、Icons 与 SEO',
     level: '基础',
     summary: '配置标题、描述、Open Graph 和应用图标。',

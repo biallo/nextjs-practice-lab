@@ -1,6 +1,6 @@
 export const imagesFontsAssetsLesson = {
   id: 'images-fonts-assets',
-  number: '11',
+  number: '12',
   title: '图片、字体与静态资源优化',
   level: '基础',
   summary: '使用 next/image、next/font 和 public 目录管理页面性能、视觉稳定性和资源路径。',

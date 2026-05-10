@@ -1,6 +1,6 @@
 export const dataFetchingLesson = {
     id: 'data-fetching',
-    number: '03',
+    number: '04',
     title: '数据获取与缓存',
     level: '核心',
     summary: '学习 fetch 缓存、revalidate、动态渲染和并行请求。',

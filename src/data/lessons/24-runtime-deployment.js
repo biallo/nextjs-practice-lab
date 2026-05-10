@@ -1,6 +1,6 @@
 export const runtimeDeploymentLesson = {
   id: 'runtime-deployment',
-  number: '24',
+  number: '25',
   title: '运行时与部署限制',
   level: '工程',
   summary: '区分 Node.js runtime、Edge runtime、环境变量、区域部署和平台限制。',

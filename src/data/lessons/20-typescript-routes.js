@@ -1,6 +1,6 @@
 export const typescriptRoutesLesson = {
   id: 'typescript-routes',
-  number: '20',
+  number: '21',
   title: 'TypeScript 与类型安全路由',
   level: '工程',
   summary: '使用 Next.js TypeScript 支持、typedRoutes、Route 类型和环境变量类型提示减少低级错误。',

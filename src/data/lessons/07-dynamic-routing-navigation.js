@@ -1,6 +1,6 @@
 export const dynamicRoutingNavigationLesson = {
   id: 'dynamic-routing-navigation',
-  number: '07',
+  number: '08',
   title: '动态路由与导航',
   level: '核心',
   summary: '掌握动态段、generateStaticParams、Link、redirect、notFound 和路由参数传递。',

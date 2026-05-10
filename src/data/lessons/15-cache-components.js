@@ -1,6 +1,6 @@
 export const cacheComponentsLesson = {
   id: 'cache-components',
-  number: '15',
+  number: '16',
   title: 'Cache Components 与 use cache',
   level: '进阶',
   summary: '学习 Next.js 16 的 Cache Components、use cache、cacheLife、cacheTag 和 updateTag。',

@@ -1,3 +1,4 @@
+import { nextjsIntroductionLesson } from './00-nextjs-introduction.js';
 import { appRouterLesson } from './01-app-router.js';
 import { serverClientLesson } from './02-server-client.js';
 import { dataFetchingLesson } from './03-data-fetching.js';
@@ -24,6 +25,7 @@ import { bundlePerformanceLesson } from './23-bundle-performance.js';
 import { runtimeDeploymentLesson } from './24-runtime-deployment.js';
 
 export const lessons = [
+  nextjsIntroductionLesson,
   appRouterLesson,
   serverClientLesson,
   dataFetchingLesson,

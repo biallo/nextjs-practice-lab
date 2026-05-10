@@ -1,6 +1,6 @@
 export const internationalizationLesson = {
   id: 'internationalization',
-  number: '19',
+  number: '20',
   title: '国际化 i18n',
   level: '实践',
   summary: '设计 locale 路由、语言协商、翻译内容组织和多语言 SEO。',

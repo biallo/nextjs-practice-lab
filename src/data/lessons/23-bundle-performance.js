@@ -1,6 +1,6 @@
 export const bundlePerformanceLesson = {
   id: 'bundle-performance',
-  number: '23',
+  number: '24',
   title: 'Bundle 分析与性能调优',
   level: '工程',
   summary: '用 bundle analyzer、动态导入和客户端边界收敛控制 JavaScript 成本。',

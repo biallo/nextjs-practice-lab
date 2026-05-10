@@ -1,6 +1,6 @@
 export const cachingModelLesson = {
   id: 'caching-model',
-  number: '16',
+  number: '17',
   title: 'Next.js 缓存全景',
   level: '核心',
   summary: '区分 Request Memoization、Data Cache、Full Route Cache 和 Router Cache 的职责与失效方式。',

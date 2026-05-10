@@ -1,6 +1,6 @@
 export const mdxContentLesson = {
   id: 'mdx-content',
-  number: '22',
+  number: '23',
   title: 'MDX 与内容型站点',
   level: '实践',
   summary: '用 MDX 编写课程、博客和文档内容，并通过组件映射保持统一样式。',
