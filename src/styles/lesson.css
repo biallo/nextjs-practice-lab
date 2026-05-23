@@ -180,7 +180,6 @@ pre {
 
 code {
   display: block;
-  min-width: max-content;
   padding: 18px;
   color: var(--code-fg);
   font-family:
@@ -188,6 +187,7 @@ code {
   font-size: 14px;
   line-height: 1.7;
   tab-size: 2;
+  white-space: pre-wrap;
 }
 
 .code-comment {
